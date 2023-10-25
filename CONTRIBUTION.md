@@ -25,3 +25,8 @@ TAX_RATE = 0.2
 ```
 
 
+# Hi Shubham Can we please add best practices for code comments? I know QA prefers:
+```
+# Install the library.
+# Create a new DataFrame.
+```
