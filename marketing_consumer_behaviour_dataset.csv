@@ -1,0 +1,101 @@
+Customer ID,Age,Gender,Location,Product Category,Purchase Frequency,Average Spend,Preferred Shopping Channel,Engagement Score,Loyalty Program Member
+C0001,32,Male,Rural,Health & Beauty,Monthly,367.34,Mobile App,3,Yes
+C0002,24,Female,Rural,Home & Kitchen,Monthly,477.18,Mobile App,6,No
+C0003,61,Other,Suburban,Electronics,Weekly,311.32,In-Store,6,Yes
+C0004,53,Female,Urban,Clothing,Monthly,255.28,Online,7,Yes
+C0005,56,Male,Urban,Sports & Outdoors,Yearly,235.55,Mobile App,9,Yes
+C0006,54,Female,Suburban,Sports & Outdoors,Yearly,139.63,Online,4,Yes
+C0007,62,Female,Urban,Health & Beauty,Daily,371.81,Mobile App,9,No
+C0008,54,Other,Urban,Sports & Outdoors,Monthly,23.25,In-Store,4,Yes
+C0009,69,Female,Urban,Home & Kitchen,Weekly,320.77,Mobile App,6,Yes
+C0010,55,Male,Urban,Electronics,Daily,486.25,Mobile App,2,Yes
+C0011,37,Female,Rural,Electronics,Yearly,490.3,In-Store,10,Yes
+C0012,66,Male,Urban,Electronics,Monthly,430.5,Online,5,No
+C0013,37,Other,Rural,Sports & Outdoors,Yearly,146.79,In-Store,2,No
+C0014,42,Female,Urban,Health & Beauty,Monthly,330.87,In-Store,1,Yes
+C0015,62,Male,Suburban,Home & Kitchen,Yearly,237.8,Online,4,Yes
+C0016,70,Other,Urban,Clothing,Yearly,168.53,Online,1,No
+C0017,32,Other,Urban,Sports & Outdoors,Weekly,448.37,Mobile App,9,No
+C0018,27,Male,Suburban,Health & Beauty,Monthly,153.26,In-Store,10,Yes
+C0019,59,Male,Urban,Sports & Outdoors,Daily,114.29,In-Store,9,No
+C0020,70,Male,Urban,Sports & Outdoors,Monthly,42.69,Mobile App,2,Yes
+C0021,42,Male,Rural,Home & Kitchen,Weekly,153.07,Mobile App,3,Yes
+C0022,58,Male,Rural,Home & Kitchen,Daily,476.14,Mobile App,6,No
+C0023,50,Other,Suburban,Sports & Outdoors,Daily,108.84,Mobile App,5,No
+C0024,30,Female,Suburban,Clothing,Yearly,180.68,In-Store,7,No
+C0025,48,Male,Suburban,Health & Beauty,Weekly,101.32,In-Store,3,Yes
+C0026,53,Male,Rural,Health & Beauty,Daily,354.9,Mobile App,1,No
+C0027,63,Male,Rural,Health & Beauty,Monthly,189.52,Online,7,No
+C0028,34,Female,Urban,Health & Beauty,Yearly,357.6,Online,10,No
+C0029,18,Male,Suburban,Clothing,Monthly,434.62,Mobile App,8,No
+C0030,62,Other,Suburban,Sports & Outdoors,Yearly,197.45,Online,4,No
+C0031,35,Male,Suburban,Sports & Outdoors,Weekly,164.82,Mobile App,2,Yes
+C0032,35,Female,Rural,Home & Kitchen,Weekly,353.62,Online,10,No
+C0033,43,Male,Suburban,Health & Beauty,Weekly,303.32,In-Store,5,Yes
+C0034,25,Female,Suburban,Health & Beauty,Weekly,389.13,Online,9,Yes
+C0035,70,Male,Rural,Home & Kitchen,Daily,82.89,In-Store,1,No
+C0036,38,Male,Rural,Electronics,Weekly,120.89,Mobile App,1,No
+C0037,56,Other,Suburban,Electronics,Daily,372.12,In-Store,10,No
+C0038,24,Male,Suburban,Clothing,Weekly,165.58,In-Store,6,No
+C0039,69,Other,Rural,Health & Beauty,Monthly,400.7,In-Store,1,No
+C0040,32,Female,Urban,Home & Kitchen,Weekly,70.05,Mobile App,7,No
+C0041,40,Female,Suburban,Electronics,Monthly,374.5,In-Store,8,Yes
+C0042,35,Male,Suburban,Home & Kitchen,Weekly,180.82,Online,8,Yes
+C0043,52,Other,Suburban,Sports & Outdoors,Daily,137.96,Online,10,No
+C0044,69,Male,Rural,Sports & Outdoors,Yearly,419.58,In-Store,4,No
+C0045,67,Male,Urban,Electronics,Daily,161.54,Online,5,No
+C0046,70,Other,Suburban,Home & Kitchen,Monthly,296.53,Online,6,Yes
+C0047,26,Male,Urban,Electronics,Monthly,417.38,Online,9,No
+C0048,35,Male,Suburban,Sports & Outdoors,Yearly,243.13,Online,3,Yes
+C0049,26,Male,Suburban,Clothing,Monthly,149.15,Online,8,Yes
+C0050,62,Other,Urban,Health & Beauty,Yearly,481.26,In-Store,6,No
+C0051,70,Other,Urban,Sports & Outdoors,Yearly,279.73,In-Store,8,No
+C0052,29,Female,Rural,Sports & Outdoors,Weekly,264.47,Mobile App,1,Yes
+C0053,33,Female,Urban,Home & Kitchen,Weekly,449.04,In-Store,4,Yes
+C0054,57,Other,Urban,Sports & Outdoors,Yearly,258.99,Mobile App,6,Yes
+C0055,67,Female,Rural,Electronics,Monthly,297.77,Online,5,No
+C0056,37,Other,Urban,Health & Beauty,Monthly,323.5,Mobile App,6,Yes
+C0057,23,Female,Urban,Health & Beauty,Daily,218.56,In-Store,5,No
+C0058,51,Other,Urban,Electronics,Monthly,89.0,Mobile App,7,Yes
+C0059,70,Other,Rural,Clothing,Monthly,194.14,Online,1,Yes
+C0060,18,Male,Urban,Health & Beauty,Weekly,442.9,In-Store,1,Yes
+C0061,46,Female,Urban,Electronics,Yearly,177.83,In-Store,8,Yes
+C0062,44,Female,Urban,Sports & Outdoors,Weekly,323.13,In-Store,7,Yes
+C0063,58,Other,Urban,Sports & Outdoors,Weekly,85.28,Online,7,No
+C0064,44,Other,Suburban,Clothing,Weekly,422.38,Online,4,No
+C0065,40,Male,Rural,Sports & Outdoors,Daily,186.04,Mobile App,6,Yes
+C0066,63,Female,Rural,Electronics,Daily,84.09,Online,8,No
+C0067,53,Female,Suburban,Home & Kitchen,Monthly,127.26,In-Store,10,Yes
+C0068,29,Female,Rural,Electronics,Yearly,473.73,Online,10,Yes
+C0069,26,Other,Urban,Health & Beauty,Daily,428.32,Mobile App,2,Yes
+C0070,32,Other,Urban,Health & Beauty,Daily,463.58,In-Store,6,Yes
+C0071,21,Female,Urban,Clothing,Monthly,302.97,Online,8,No
+C0072,65,Other,Suburban,Home & Kitchen,Daily,280.95,In-Store,10,Yes
+C0073,49,Other,Suburban,Sports & Outdoors,Monthly,352.87,In-Store,7,No
+C0074,33,Other,Suburban,Sports & Outdoors,Yearly,315.27,Mobile App,10,Yes
+C0075,24,Female,Urban,Electronics,Monthly,229.65,Mobile App,9,Yes
+C0076,18,Male,Urban,Health & Beauty,Monthly,241.58,Mobile App,10,No
+C0077,20,Male,Rural,Sports & Outdoors,Yearly,337.52,In-Store,10,No
+C0078,30,Other,Rural,Health & Beauty,Yearly,413.74,Mobile App,8,No
+C0079,53,Other,Suburban,Home & Kitchen,Daily,99.75,In-Store,5,No
+C0080,49,Other,Suburban,Health & Beauty,Daily,496.84,Online,4,Yes
+C0081,32,Female,Rural,Clothing,Daily,286.0,Online,4,Yes
+C0082,49,Other,Rural,Home & Kitchen,Daily,244.1,Mobile App,5,No
+C0083,22,Male,Urban,Sports & Outdoors,Monthly,91.05,In-Store,7,No
+C0084,44,Male,Suburban,Sports & Outdoors,Weekly,274.11,Online,10,No
+C0085,28,Other,Urban,Electronics,Monthly,341.83,Mobile App,2,Yes
+C0086,52,Male,Suburban,Home & Kitchen,Daily,379.89,Mobile App,2,No
+C0087,68,Other,Rural,Sports & Outdoors,Yearly,458.62,Online,10,No
+C0088,33,Other,Rural,Health & Beauty,Yearly,394.23,Mobile App,9,No
+C0089,33,Male,Rural,Electronics,Daily,93.38,Online,2,No
+C0090,48,Female,Rural,Sports & Outdoors,Daily,490.76,Mobile App,1,Yes
+C0091,21,Other,Suburban,Home & Kitchen,Daily,105.77,Online,6,Yes
+C0092,58,Male,Rural,Electronics,Daily,314.13,In-Store,7,No
+C0093,43,Other,Rural,Electronics,Daily,262.51,Mobile App,9,No
+C0094,58,Male,Suburban,Home & Kitchen,Yearly,206.81,In-Store,9,No
+C0095,39,Male,Suburban,Home & Kitchen,Yearly,415.88,In-Store,4,Yes
+C0096,59,Other,Suburban,Sports & Outdoors,Daily,368.67,Mobile App,5,Yes
+C0097,26,Male,Rural,Electronics,Yearly,179.04,In-Store,1,Yes
+C0098,28,Male,Suburban,Home & Kitchen,Weekly,454.17,Mobile App,8,Yes
+C0099,24,Male,Suburban,Electronics,Yearly,380.01,Mobile App,5,No
+C0100,54,Male,Rural,Home & Kitchen,Weekly,307.38,In-Store,2,No
